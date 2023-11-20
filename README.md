@@ -1,5 +1,9 @@
 # Implementation of Data Strucutures and Algorithms with Golang
 
+### Big O code examples
+* O(n)
+* O(1)
+* O(n^2)
 
 ### Data Strucutures
 * Stack
@@ -23,7 +27,7 @@
    | Pre-order | In-order | Post-order | 
  * Sort
    * Bubble Sort
-   * Selection Sort
+   * Selection Sort 
    * Insertion Sort
    * Merge Sort
    * Quick Sort
