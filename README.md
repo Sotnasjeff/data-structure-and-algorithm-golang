@@ -1,9 +1,14 @@
 # Implementation of Data Strucutures and Algorithms with Golang
 
 ### Big O code examples
-* O(n)
-* O(1)
-* O(n^2)
+* Speed Complexity
+   * O(n)
+   * O(1)
+   * O(n^2)
+* Space Complexity
+   * O(n)
+   * O(1)
+   * O(n^2)
 
 ### Data Strucutures
 * Stack
